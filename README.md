@@ -16,11 +16,11 @@ I will post any information or sample code for Game Challenge 1 here.
 
 **Timeline:**
 
-1-2: Part 1 due 4/29.  Part 2 due 5/1.  Parts 3 and 4 due 5/3.
+1-2: Part 1 due 4/29.  Part 2 due 5/1.  Parts 3 and 4 due 5/3.  **Extended to 5/7**
 
-7-8: Part 1 due 4/29.  Part 2 due 4/30.  Parts 3 and 4 due 5/6.
+7-8: Part 1 due 4/29.  Part 2 due 4/30.  Parts 3 and 4 due 5/6.  **Extended to 5/7**
 
-9-10: Part 1 due 4/30.  Part 2 due 5/1.  Parts 3 and 4 due 5/6.
+9-10: Part 1 due 4/30.  Part 2 due 5/1.  Parts 3 and 4 due 5/6.  **Extended to 5/8**
 
 **Standards and requirements for overall evaluation of your project:**
 The project should pose a reasonable level of challenge.  If you are struggling, I don’t want you to try something way over your head.  On the other hand, if you have prior experience, you shouldn’t be doing something very easy.  I expect a game over condition that will end the game.  I encourage you to add a restart button if appropriate, use images, and find ways to differentiate your game from those of your classmates.  Be prepared, if asked, to explain any section of your code and how you came up with it.  Do not copy directly from examples you find, although you may certainly look at examples of similar games. 
