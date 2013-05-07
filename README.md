@@ -29,3 +29,6 @@ The project should pose a reasonable level of challenge.  If you are struggling,
 Code must be clear.  Comments should be included where appropriate.  Code must be object-oriented and easy to modify. 
 
 **Remember: If you want a perfect score, go beyond the minimum requirements!**
+
+**Important information for submitting this assignment**
+All classes: Assignment must be submitted **no later than** Friday, May 10, 2013.  This is to allow for some flexibility for students taking AP tests.  Assignment must be submitted as a zip folder named "PeriodX_Y_GameChallenge1_Lastname" (please use .zip, not .7z or .rar) containing your program (can be in a separate folder inside the .zip) and all your documentation.  All documentation is to be typed with your name on it in proper MLA format.  If you have questions or concerns, contact me as soon as possible.  Please note that the final day to work on the assignment in class remains unchanged.  Only the date by which the assignment must be turned in has changed to allow you to work on it on your own time.
